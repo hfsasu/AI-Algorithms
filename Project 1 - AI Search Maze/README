@@ -1,0 +1,14 @@
+
+
+To Run This Program:
+- Open terminal and run the following command:
+python maze.py maze.txt
+python maze.py maze2.txt
+
+The solution will be added as a png!
+
+
+
+PIL (Python Imaging Library) module
+- To get the output as a image, need to download it using the below command
+pip install pillow
